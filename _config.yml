@@ -2,7 +2,7 @@ title: C:\\Welcome
 author: Milo-Hwejae
 email: hwejae94@korea.ac.kr
 description: > # this means to ignore newlines until "show_exerpts:"
-  Milo-Hwejae's Blog, \n
+  Milo-Hwejae's Blog, <br />
   About data driven security
 
 paginate: 1
@@ -49,4 +49,4 @@ plugins:
 
 # Replaces the default avatar provider (gravatar)
 #avatar_source: github
-#github_username: bitbrain
+#github_username: Milo-Hwejae

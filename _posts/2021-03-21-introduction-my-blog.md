@@ -6,14 +6,14 @@ tags: introduction start
 ---
 
 
-Hello,
+Hello,<br />
 
-You can call me Milo(English name) or Hwejae(Korean name).
+You can call me Milo(English name) or Hwejae(Korean name).<br />
 
-I'm taking an integrated master's and doctoral degree course at the Department of Cybersecurity, Korea University in Korea.
+I'm taking an integrated master's and doctoral degree course at the Department of Cybersecurity, Korea University in Korea.<br />
 
-I'm interested in data driven security, so I plan to post about this in the future.
+I'm interested in <strong>data driven security</strong>, so I plan to post about this in the future.<br />
 
-If you have a question, please send me a email.
+If you have a question, please send me a email.<br />
 
-My email address is hwejae94@korea.ac.kr
+My email address is <strong>hwejae94@korea.ac.kr</strong><br />
