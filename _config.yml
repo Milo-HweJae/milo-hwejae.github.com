@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "show_exerpts:"
   Milo-Hwejae's Blog, <br />
   About data driven security
 # required by disqus to display comments
-url: https://milo-hwejae.github.io/l
+url: https://milo-hwejae.github.io/
 
 paginate: 5
 paginate_path: "/blog/page:num/"
@@ -49,7 +49,7 @@ plugins:
  - liquid-md5
  - jekyll/tagging
 gem 'jekyll-tagging'
-gem "liquid-md5"
+gem 'liquid-md5'
 # Replaces the default avatar provider (gravatar)
 #avatar_source: github
 #github_username: Milo-Hwejae
