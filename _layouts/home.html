@@ -16,7 +16,7 @@ layout: default
             {% if site.plugins contains "jekyll/tagging" %}
             <div class="post-tags">
                 {% for tag in post.tags %}
-                <a class="tag" href="/_site/tag/{{ tag }}/">{{ tag }}</a>
+                <a class="tag" href="/tag/{{ tag }}/">{{ tag }}</a>
                 {% endfor %}
             </div>
             {% endif %}
@@ -35,9 +35,9 @@ layout: default
       {% endfor %}
     </div>
 
-    {% _include pagination.html %}
+    {% include pagination.html %}
 
-    {% _include tagcloud.html %}
+    {% include tagcloud.html %}
 {% else %}
 <h2>no posts yet.</h2>
 {% endif %}
