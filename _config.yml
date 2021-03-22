@@ -48,7 +48,8 @@ plugins:
  - jekyll-paginate
  - liquid-md5
  - jekyll/tagging
-
+gem "jekyll-tagging"
+gem "liquid-md5"
 # Replaces the default avatar provider (gravatar)
 #avatar_source: github
 #github_username: Milo-Hwejae
